@@ -31,3 +31,10 @@ npm run dev
 Open:
 
 http://localhost:3000
+
+Future Scope
+
+• Integration with real-time disaster APIs
+• Government emergency response integration
+• AI based disaster prediction models
+• Satellite data integration
