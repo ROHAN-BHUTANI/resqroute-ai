@@ -1,40 +1,37 @@
-# ResQRoute AI
+# 🚑 ResQRoute AI
 
-ResQRoute AI is an intelligent emergency response routing system designed to help emergency vehicles reach disaster zones faster.
+AI-powered disaster response and emergency routing system.
 
-## Features
+## 🚀 Features
+- AI Risk Prediction
+- Emergency Route Optimization
+- Real-time Dashboard
+- Ambulance Tracking
+- Disaster Simulation
 
-- AI-based disaster risk prediction
-- Smart emergency route optimization
-- Interactive dashboard
-- Risk heatmap visualization
-- Ambulance tracking simulation
+## 🛠 Tech Stack
+- Frontend: Next.js
+- Backend: Flask
+- AI: Python ML Model
+- Maps: Leaflet
 
-## Tech Stack
+## 👥 Team
+- Rohan Bhutani (Team Lead)
+- Anirudh Panwar
+- Shruti Sharma
+- Ananya Sharma
 
-Frontend: Next.js + React + Leaflet  
-Backend: Python Flask  
-AI: Risk prediction model  
-Routing: NetworkX + OpenStreetMap  
+## ▶️ How to Run
 
-## How to Run
+### Backend
+cd backend  
+pip install -r requirements.txt  
+python app.py  
 
-Backend:
+### Frontend
+cd frontend  
+npm install  
+npm run dev  
 
-python app.py
-
-Frontend:
-
-npm install
-npm run dev
-
-Open:
-
-http://localhost:3000
-
-Future Scope
-
-• Integration with real-time disaster APIs
-• Government emergency response integration
-• AI based disaster prediction models
-• Satellite data integration
+## 🎯 Impact
+Reduces emergency response time using AI-driven routing and prediction.
